@@ -1,7 +1,7 @@
+---
+buildOTF: false
+buildVariable: false
+familyName: Dr Sheldon
+outputDir: ../fonts
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
-axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+  - dr-sheldon-Regular.designspace

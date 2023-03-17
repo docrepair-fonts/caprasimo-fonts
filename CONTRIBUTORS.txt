@@ -8,3 +8,24 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+Software development: 
+
+Adam Twardoch <adam+github@twardoch.com>
+
+Typeface Production & Scripting:
+
+Ethan Cohen <ethan@ethancohenstudio.com>
+Andy Clymer <hello@andyclymer.com>
+
+Font Mastering:
+
+Alphabet <hello@alphabet-type.com>
+
+Print Specimen Design:
+
+Kelly Thorn <kelly@charlesandthorn.com>
+Douglas Hayes <dougobrianhayes@gmail.com>
+
+"Fraunces" namesake:
+
+Stephen Nixon

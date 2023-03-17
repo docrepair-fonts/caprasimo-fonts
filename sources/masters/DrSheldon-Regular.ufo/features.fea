@@ -1,0 +1,75 @@
+#> classes
+#/> tags
+@mux_dig = [eight five four nine one seven six three two zero];
+@mux_lc = [a aacute acircumflex adieresis ae agrave aring atilde b c caron caron.cap ccedilla circumflex circumflex.cap d e eacute ecircumflex edieresis egrave eth f fi fl florin g germandbls h i iacute icircumflex idieresis idotless igrave j k l m n ntilde o oacute ocircumflex odieresis oe ograve ordfeminine ordmasculine oslash otilde p q r s scaron t thorn u uacute ucircumflex udieresis ugrave v w x y yacute ydieresis z];
+@mux_ot = [acute acute.cap acutecomb ampersand approxequal asciicircum asciitilde asterisk backslash bar braceleft braceright bracketleft bracketright breve brokenbar bullet cedilla cedillacomb cent circumflexcomb colon comma currency dagger daggerdbl degree dieresis dieresis.cap dieresiscomb divide dollar dotaccent ellipsis emdash endash equal euro exclam exclamdown fraction grave grave.cap gravecomb greater greaterequal guillemetleft guillemetright guilsinglleft guilsinglright hungarumlaut hyphen less lessequal logicalnot macron multiply notequal numbersign ogonek onehalf onequarter onesuperior paragraph parenleft parenright percent period periodcentered perthousand plus plusminus question questiondown quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle ring ring.cap ringcomb section semicolon slash softhyphen space sterling threequarters threesuperior tilde tilde.cap tildecomb twosuperior underscore yen];
+@mux_spc = [at copyright registered trademark];
+@mux_uc = [A AE Aacute Acircumflex Adieresis Agrave Aring Atilde B C Ccedilla D E Eacute Ecircumflex Edieresis Egrave Eth F G H I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O OE Oacute Ocircumflex Odieresis Ograve Oslash Otilde P Q R S Scaron T Thorn U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Ydieresis Z];
+#/< tags
+#< classes
+
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+#< languagesystem
+feature aalt {
+# Access All Alternates
+
+#> feature
+  feature sups;
+  feature case;
+#< feature
+} aalt;
+feature sups {
+# Superscript
+
+#> feature
+  sub one by onesuperior;
+  sub three by threesuperior;
+  sub two by twosuperior;
+#< feature
+} sups;
+feature frac {
+# Fractions
+
+#> feature
+lookup frac_precomposed {
+
+  sub one slash four by onequarter;
+  sub one slash two by onehalf;
+  sub three slash four by threequarters;
+  sub one fraction four by onequarter;
+  sub one fraction two by onehalf;
+  sub three fraction four by threequarters;
+} frac_precomposed;
+#< feature
+} frac;
+feature ordn {
+# Ordinals
+
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+#< feature
+} ordn;
+feature liga {
+# Standard Ligatures
+
+#> feature
+  sub f i by fi;
+  sub f l by fl;
+#< feature
+} liga;
+feature case {
+# Case Sensitive Forms
+
+#> feature
+  sub acute by acute.cap;
+  sub caron by caron.cap;
+  sub circumflex by circumflex.cap;
+  sub dieresis by dieresis.cap;
+  sub grave by grave.cap;
+  sub ring by ring.cap;
+  sub tilde by tilde.cap;
+#< feature
+} case;

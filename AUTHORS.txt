@@ -5,3 +5,7 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
+Google LLC <fonts@google.com>
+Undercase Type <info@undercase.xyz>
+Phaedra Charles <phaedra@undercase.xyz>
+Flavia Zimbardi <flaviazim@gmail.com>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis minimum="1" name="weight" tag="wght" maximum="1000" default="400">
+   <labelname xml:lang="en">Weight</labelname>
+   <map input="1" output="1"/>
+   <map input="400" output="400"/>
+   <map input="1000" output="1000"/>
+  </axis>
+  <axis minimum="1" name="width" tag="wdth" maximum="200" default="1">
+   <labelname xml:lang="en">Width</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source filename="masters/DrSheldon-Regular.ufo" familyname="Dr Sheldon" name="Regular" stylename="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+    <dimension name="width" xvalue="1"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>com.github.googlei18n.ufo2ft.featureWriters</key>
+   <array>
+    <dict>
+     <key>class</key>
+     <string>KernFeatureWriter</string>
+     <key>options</key>
+     <dict>
+      <key>mode</key>
+      <string>skip</string>
+     </dict>
+    </dict>
+   </array>
+   <key>org.docrepair-fonts</key>
+   <dict>
+    <key>masters</key>
+    <array>
+     <string>mux_BlackXCond</string>
+     <string>mux_BlackCond</string>
+     <string>mux_Black</string>
+     <string>mux_BlackWide</string>
+     <string>mux_BlackXWide</string>
+    </array>
+    <key>vaxis</key>
+    <array>
+     <string>orig_Light</string>
+     <string>orig_Black</string>
+    </array>
+   </dict>
+   <key>org.docrepair-fonts.fit</key>
+   <array>
+    <string>tgt_Regular</string>
+   </array>
+  </dict>
+ </lib>
+ <instances>
+  <instance filename="instances/DrSheldon-Regular.ufo" familyname="Dr Sheldon" name="Regular" stylename="Regular">
+   <location>
+    <dimension name="width" xvalue="100"/>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

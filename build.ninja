@@ -1,0 +1,13 @@
+# Rules
+
+rule proofing
+  command = _diffbrowsers proof $fonts -o $out -pt $pt_size --filter-styles $
+      "$filters"
+
+# Build rules
+build out/proof/Regular: proofing
+  fonts = $
+      /Users/adam/Developer/vcs/github.docrepair-fonts/priv/dr-sheldon-fonts.priv/public/dr-sheldon-fonts/fonts/ttf/DrSheldon-Regular.ttf
+  out = out/diffbrowsers
+  pt_size = 20
+  filters = Regular

@@ -1,3 +1,5 @@
+*.backup/
+*.vfpyc
 *~
 venv
 build.stamp
