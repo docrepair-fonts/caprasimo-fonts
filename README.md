@@ -19,10 +19,6 @@ Based on [Fraunces](https://github.com/undercasetype/Fraunces)
     Dr Sheldon is a DocRepair font intended for improving document compatibility
     with the ISO/IEC 29500 standard. Dr Sheldon is based on Fraunces, a display, old-style soft-serif typeface inspired by the mannerisms of early 20th century typefaces such as the Cooper Series. Fraunces was designed by Phaedra Charles and Flavia Zimbardi, partners at <a href="http://www.undercase.xyz">Undercase Type</a>.
 </p>
-<p>
-    To contribute, see
-    <a href="https://github.com/docrepair-fonts/dr-sheldon-fonts">github.com/docrepair-fonts/dr-sheldon-fonts</a>.
-</p>
 
 ## About
 
