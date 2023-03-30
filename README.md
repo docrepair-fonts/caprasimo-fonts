@@ -1,28 +1,11 @@
 
-# Dr Sheldon OFL fonts
+# Caprasimo
 
-Based on [Fraunces](https://github.com/undercasetype/Fraunces) 
-
-[![][Fontbakery]](https://docrepair-fonts.github.io/dr-sheldon-fonts/fontbakery/fontbakery-report.html)
-[![][Universal]](https://docrepair-fonts.github.io/dr-sheldon-fonts/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://docrepair-fonts.github.io/dr-sheldon-fonts/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://docrepair-fonts.github.io/dr-sheldon-fonts/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://docrepair-fonts.github.io/dr-sheldon-fonts/fontbakery/fontbakery-report.html)
-
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-sheldon-fonts%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-sheldon-fonts%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-sheldon-fonts%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-sheldon-fonts%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-sheldon-fonts%2Fgh-pages%2Fbadges%2FUniversal.json
-
-<p>
-    Dr Sheldon is a DocRepair font intended for improving document compatibility
-    with the ISO/IEC 29500 standard. Dr Sheldon is based on Fraunces, a display, old-style soft-serif typeface inspired by the mannerisms of early 20th century typefaces such as the Cooper Series. Fraunces was designed by Phaedra Charles and Flavia Zimbardi, partners at <a href="http://www.undercase.xyz">Undercase Type</a>.
-</p>
+Caprasimo is a DocRepair font, intended to improve compliance with the ISO/IEC 29500 standard by providing fallback that minimizes text reflow in Office Open XML documents. Caprasimo is based on Fraunces, a display, old-style soft-serif typeface inspired by the mannerisms of early 20th century typefaces such as the Cooper Series. Fraunces was designed by Phaedra Charles and Flavia Zimbardi, partners at Undercase Type.
 
 ## About
 
-DocRepair is a collection of fonts intended for improving document compatibility with the ISO/IEC 29500 standard.
+Based on [Fraunces](https://github.com/undercasetype/Fraunces) 
 
 ## Building
 

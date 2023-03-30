@@ -1,7 +1,7 @@
 ---
 buildOTF: false
 buildVariable: false
-familyName: Dr Sheldon
+familyName: Caprasimo
 outputDir: ../fonts
 sources:
-  - dr-sheldon-Regular.designspace
+  - Caprasimo-Regular.designspace
