@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance width="1024"/>
+  <unicode hex="02C9"/>
+  <outline>
+    <contour>
+      <point x="58" y="1208" type="curve" smooth="yes"/>
+      <point x="58" y="1133"/>
+      <point x="98" y="1082"/>
+      <point x="176" y="1082" type="curve" smooth="yes"/>
+      <point x="849" y="1082" type="line" smooth="yes"/>
+      <point x="928" y="1082"/>
+      <point x="966" y="1134"/>
+      <point x="966" y="1209" type="curve" smooth="yes"/>
+      <point x="966" y="1283"/>
+      <point x="927" y="1336"/>
+      <point x="849" y="1336" type="curve" smooth="yes"/>
+      <point x="176" y="1336" type="line" smooth="yes"/>
+      <point x="96" y="1336"/>
+      <point x="58" y="1284"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsWidth</key>
+      <string>:ref_Regular</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 1082 21</string>
+              <string>hstem 1336 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>5e2fd9c67678093436921973b3449ee161cf7a4810861abb9def02c599eb2eb4cc90fea336beeeac628e4776764ac344340b336d13411a39be3a58808fb03aee</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

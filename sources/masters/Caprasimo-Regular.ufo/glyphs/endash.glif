@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="2">
+  <advance width="1229"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="58" y="548" type="curve" smooth="yes"/>
+      <point x="58" y="483"/>
+      <point x="77" y="412"/>
+      <point x="155" y="412" type="curve" smooth="yes"/>
+      <point x="1074" y="412" type="line" smooth="yes"/>
+      <point x="1152" y="412"/>
+      <point x="1171" y="483"/>
+      <point x="1171" y="548" type="curve" smooth="yes"/>
+      <point x="1171" y="613"/>
+      <point x="1152" y="683"/>
+      <point x="1074" y="683" type="curve" smooth="yes"/>
+      <point x="155" y="683" type="line" smooth="yes"/>
+      <point x="77" y="683"/>
+      <point x="58" y="613"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1229m58,548c58,483 77,412 155,412l1074,412c1152,412 1171,483 1171,548c1171,613 1152,683 1074,683l155,683c77,683 58,613 58,548</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 412 21</string>
+          <string>hstem 683 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

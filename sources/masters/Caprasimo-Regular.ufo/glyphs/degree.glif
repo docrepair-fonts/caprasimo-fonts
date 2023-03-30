@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="2">
+  <advance width="848"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="425" y="1426" type="curve" smooth="yes"/>
+      <point x="233" y="1426"/>
+      <point x="88" y="1289"/>
+      <point x="88" y="1095" type="curve" smooth="yes"/>
+      <point x="88" y="901"/>
+      <point x="234" y="766"/>
+      <point x="425" y="766" type="curve" smooth="yes"/>
+      <point x="614" y="766"/>
+      <point x="762" y="894"/>
+      <point x="762" y="1088" type="curve" smooth="yes"/>
+      <point x="762" y="1285"/>
+      <point x="622" y="1426"/>
+    </contour>
+    <contour>
+      <point x="425" y="1235" type="curve" smooth="yes"/>
+      <point x="508" y="1235"/>
+      <point x="555" y="1170"/>
+      <point x="555" y="1092" type="curve" smooth="yes"/>
+      <point x="555" y="1017"/>
+      <point x="501" y="958"/>
+      <point x="425" y="958" type="curve" smooth="yes"/>
+      <point x="347" y="958"/>
+      <point x="296" y="1020"/>
+      <point x="296" y="1095" type="curve" smooth="yes"/>
+      <point x="296" y="1171"/>
+      <point x="345" y="1235"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1597eec1ee2d827a8afc8269218ca612094348f640ef1b4bf432123f0381170156e2facb23179147b7d07a3bb3ad3e8f564761a453f266862e7b88194ac59536</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 766 21</string>
+          <string>hstem 1426 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

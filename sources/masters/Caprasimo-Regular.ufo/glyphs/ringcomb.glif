@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb" format="2">
+  <unicode hex="030A"/>
+  <anchor x="337" y="958" name="_top"/>
+  <anchor x="337" y="1462" name="top"/>
+  <outline>
+    <contour>
+      <point x="337" y="1030" type="curve" smooth="yes"/>
+      <point x="472" y="1030"/>
+      <point x="617" y="1091"/>
+      <point x="617" y="1247" type="curve" smooth="yes"/>
+      <point x="617" y="1403"/>
+      <point x="472" y="1462"/>
+      <point x="337" y="1462" type="curve" smooth="yes"/>
+      <point x="202" y="1462"/>
+      <point x="58" y="1403"/>
+      <point x="58" y="1247" type="curve" smooth="yes"/>
+      <point x="58" y="1090"/>
+      <point x="201" y="1030"/>
+    </contour>
+    <contour>
+      <point x="339" y="1333" type="curve" smooth="yes"/>
+      <point x="392" y="1333"/>
+      <point x="432" y="1302"/>
+      <point x="432" y="1247" type="curve" smooth="yes"/>
+      <point x="432" y="1193"/>
+      <point x="391" y="1161"/>
+      <point x="339" y="1161" type="curve" smooth="yes"/>
+      <point x="287" y="1161"/>
+      <point x="243" y="1191"/>
+      <point x="243" y="1247" type="curve" smooth="yes"/>
+      <point x="243" y="1303"/>
+      <point x="287" y="1333"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>48b3faf79c070f10773bee5302aaa29596e264e2973298ced1309b0b24fe0f1436436e83d6ae5ab4fc3a8bb7f0d2ae6cfd2c88c0509716ab594daaaedee5246e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1030 432</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

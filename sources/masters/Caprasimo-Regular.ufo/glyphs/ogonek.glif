@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="1024"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="698" y="77" type="line"/>
+      <point x="526" y="39"/>
+      <point x="154" y="-41"/>
+      <point x="154" y="-268" type="curve" smooth="yes"/>
+      <point x="154" y="-442"/>
+      <point x="363" y="-479"/>
+      <point x="498" y="-479" type="curve" smooth="yes"/>
+      <point x="616" y="-479"/>
+      <point x="871" y="-429"/>
+      <point x="871" y="-275" type="curve" smooth="yes"/>
+      <point x="871" y="-238"/>
+      <point x="843" y="-206"/>
+      <point x="805" y="-206" type="curve" smooth="yes"/>
+      <point x="788" y="-206"/>
+      <point x="774" y="-216"/>
+      <point x="760" y="-225" type="curve" smooth="yes"/>
+      <point x="713" y="-256"/>
+      <point x="671" y="-267"/>
+      <point x="615" y="-267" type="curve" smooth="yes"/>
+      <point x="569" y="-267"/>
+      <point x="493" y="-254"/>
+      <point x="493" y="-194" type="curve" smooth="yes"/>
+      <point x="493" y="-93"/>
+      <point x="665" y="-28"/>
+      <point x="744" y="1" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2eb9fd000a3a35a853618acbd9249c5f77f8c9ff51eb0a3b139b31b25662ffa705992148a574dcbf9cd6cacf6f0a72715f9c6be1b4ed19031f36a96a91f02a09</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -479 21</string>
+          <string>hstem 77 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
