@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>1434</integer>
     <key>copyright</key>
-    <string>Copyright 2018 The Fraunces Project Authors (github.com/undercasetype/Fraunces). Copyright 2023 The Caprasimo Project Authors (github.com/googlefonts/caprasimo).</string>
+    <string>Copyright 2023 The Caprasimo Project Authors (https://github.com/docrepair-fonts/caprasimo-fonts).</string>
     <key>descender</key>
     <integer>-395</integer>
     <key>familyName</key>
@@ -68,9 +68,9 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
-    <string>Phaedra Charles, Flavia Zimbardi</string>
+    <string>The DocRepair Project, Phaedra Charles, Flavia Zimbardi</string>
     <key>openTypeNameDesignerURL</key>
-    <string>https://undercase.xyz/</string>
+    <string>https://github.com/docrepair-fonts/caprasimo-fonts</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>

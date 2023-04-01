@@ -270,16 +270,16 @@
       <string>.notdef</string>
       <string>.null</string>
       <string>infinity</string>
-      <string>summation</string>
-      <string>radical</string>
-      <string>partialdiff</string>
-      <string>integral</string>
+      <string>mu</string>
       <string>Delta</string>
       <string>Ohm</string>
+      <string>summation</string>
+      <string>partialdiff</string>
+      <string>integral</string>
       <string>pi</string>
+      <string>radical</string>
       <string>lozenge</string>
       <string>product</string>
-      <string>mu</string>
     </array>
   </dict>
 </plist>

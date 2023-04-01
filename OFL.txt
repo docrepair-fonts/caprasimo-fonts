@@ -1,5 +1,4 @@
-Copyright 2018 The Fraunces Project Authors (github.com/undercasetype/Fraunces).
-Copyright 2023 The Caprasimo Project Authors (github.com/googlefonts/caprasimo).
+Copyright 2023 The Caprasimo Project Authors (https://github.com/docrepair-fonts/caprasimo-fonts).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

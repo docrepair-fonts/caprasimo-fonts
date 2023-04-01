@@ -1,42 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis default="400" name="weight" minimum="1" tag="wght" maximum="1000">
+  <axis default="400" tag="wght" minimum="1" name="weight" maximum="1000">
    <labelname xml:lang="en">Weight</labelname>
    <map input="1" output="1"/>
    <map input="400" output="400"/>
    <map input="1000" output="1000"/>
   </axis>
-  <axis default="1" name="width" minimum="1" tag="wdth" maximum="200">
+  <axis default="1" tag="wdth" minimum="1" name="width" maximum="200">
    <labelname xml:lang="en">Width</labelname>
   </axis>
  </axes>
  <sources>
-  <source name="Regular" filename="masters/Caprasimo-Regular.ufo" familyname="Caprasimo" stylename="Regular">
+  <source filename="masters/Caprasimo-Regular.ufo" familyname="Caprasimo" name="Regular" stylename="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension name="weight" xvalue="400"/>
-    <dimension name="width" xvalue="1"/>
+    <dimension xvalue="400" name="weight"/>
+    <dimension xvalue="1" name="width"/>
    </location>
   </source>
  </sources>
  <lib>
   <dict>
-   <key>com.github.googlei18n.ufo2ft.featureWriters</key>
-   <array>
-    <dict>
-     <key>class</key>
-     <string>KernFeatureWriter</string>
-     <key>options</key>
-     <dict>
-      <key>mode</key>
-      <string>skip</string>
-     </dict>
-    </dict>
-   </array>
    <key>org.docrepair-fonts</key>
    <dict>
     <key>masters</key>
@@ -60,10 +48,10 @@
   </dict>
  </lib>
  <instances>
-  <instance name="Regular" filename="instances/Caprasimo-Regular.ufo" familyname="Caprasimo" stylename="Regular">
+  <instance filename="instances/Caprasimo-Regular.ufo" familyname="Caprasimo" name="Regular" stylename="Regular">
    <location>
-    <dimension name="width" xvalue="1"/>
-    <dimension name="weight" xvalue="400"/>
+    <dimension xvalue="1" name="width"/>
+    <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
  </instances>
