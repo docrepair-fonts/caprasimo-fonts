@@ -21,7 +21,7 @@ venv: venv/touchfile
 build.stamp: venv .init.stamp sources/config.yaml $(SOURCES)
 	. venv/bin/activate; \
 	rm -rf fonts/; \
-	fontmake -m $(SOURCES) -o ttf --feature-writer None --output-dir "fonts/ttf"; \
+	fontmake -m $(SOURCES) -o ttf --output-dir "fonts/ttf"; \
 	fonts=$$(find "fonts/ttf" -type f -name "*.ttf"); \
 	echo $$fonts; \
 	if [ -n "$$fonts" ]; then \

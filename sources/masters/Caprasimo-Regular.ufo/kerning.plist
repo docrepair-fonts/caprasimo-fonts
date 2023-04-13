@@ -50,7 +50,7 @@
     <integer>-26</integer>
     <key>g</key>
     <integer>22</integer>
-    <key>guillemetleft</key>
+    <key>guillemotleft</key>
     <integer>-64</integer>
     <key>guilsinglleft</key>
     <integer>-65</integer>
@@ -111,7 +111,7 @@
     <integer>-26</integer>
     <key>g</key>
     <integer>22</integer>
-    <key>guillemetleft</key>
+    <key>guillemotleft</key>
     <integer>-64</integer>
     <key>guilsinglleft</key>
     <integer>-65</integer>
@@ -193,7 +193,7 @@
     <integer>-29</integer>
     <key>g</key>
     <integer>22</integer>
-    <key>guillemetleft</key>
+    <key>guillemotleft</key>
     <integer>-64</integer>
     <key>guilsinglleft</key>
     <integer>-65</integer>
@@ -279,7 +279,7 @@
     <integer>-26</integer>
     <key>g</key>
     <integer>22</integer>
-    <key>guillemetleft</key>
+    <key>guillemotleft</key>
     <integer>-64</integer>
     <key>guilsinglleft</key>
     <integer>-65</integer>
@@ -951,7 +951,7 @@
     <integer>-122</integer>
     <key>g</key>
     <integer>-88</integer>
-    <key>guillemetleft</key>
+    <key>guillemotleft</key>
     <integer>-118</integer>
     <key>guilsinglleft</key>
     <integer>-118</integer>
@@ -1107,7 +1107,7 @@
     <integer>-184</integer>
     <key>g</key>
     <integer>-171</integer>
-    <key>guillemetleft</key>
+    <key>guillemotleft</key>
     <integer>-171</integer>
     <key>guilsinglleft</key>
     <integer>-171</integer>
@@ -1182,7 +1182,7 @@
     <integer>-103</integer>
     <key>g</key>
     <integer>-90</integer>
-    <key>guillemetleft</key>
+    <key>guillemotleft</key>
     <integer>-91</integer>
     <key>guilsinglleft</key>
     <integer>-92</integer>
@@ -1280,7 +1280,7 @@
     <integer>-188</integer>
     <key>g</key>
     <integer>-173</integer>
-    <key>guillemetleft</key>
+    <key>guillemotleft</key>
     <integer>-190</integer>
     <key>guilsinglleft</key>
     <integer>-191</integer>
@@ -1515,7 +1515,7 @@
     <key>r</key>
     <integer>9</integer>
   </dict>
-  <key>guillemetright</key>
+  <key>guillemotright</key>
   <dict>
     <key>A</key>
     <integer>-78</integer>
