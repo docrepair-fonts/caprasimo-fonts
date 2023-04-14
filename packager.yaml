@@ -1,0 +1,10 @@
+name: Caprasimo
+repository_url: https://github.com/docrepair-fonts/caprasimo-fonts
+category:
+  - DISPLAY
+designer: The DocRepair Project, Phaedra Charles, Flavia Zimbardi
+branch: main
+files:
+  OFL.txt: OFL.txt
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  fonts/ttf/Caprasimo-Regular.ttf: Caprasimo-Regular.ttf
