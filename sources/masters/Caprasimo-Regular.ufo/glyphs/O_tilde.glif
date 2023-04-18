@@ -2,143 +2,22 @@
 <glyph name="Otilde" format="2">
   <advance width="1594"/>
   <unicode hex="00D5"/>
-  <anchor x="862" y="0" name="bottom"/>
-  <anchor x="862" y="692" name="center"/>
-  <anchor x="1545" y="10" name="ogonek"/>
-  <anchor x="28" y="1384" name="topleft"/>
-  <anchor x="1695" y="1384" name="topright"/>
-  <anchor x="862" y="1854" name="top"/>
+  <anchor x="798" y="0" name="bottom"/>
+  <anchor x="798" y="692" name="center"/>
+  <anchor x="1421" y="10" name="ogonek"/>
+  <anchor x="38" y="1384" name="topleft"/>
+  <anchor x="1558" y="1384" name="topright"/>
+  <anchor x="798" y="1854" name="top"/>
   <outline>
-    <contour>
-      <point x="862" y="1425" type="curve" smooth="yes"/>
-      <point x="431" y="1425"/>
-      <point x="70" y="1156"/>
-      <point x="70" y="702" type="curve" smooth="yes"/>
-      <point x="70" y="227"/>
-      <point x="405" y="-40"/>
-      <point x="862" y="-40" type="curve" smooth="yes"/>
-      <point x="1313" y="-40"/>
-      <point x="1652" y="241"/>
-      <point x="1652" y="707" type="curve" smooth="yes"/>
-      <point x="1652" y="1164"/>
-      <point x="1295" y="1425"/>
-    </contour>
-    <contour>
-      <point x="1146" y="414" type="curve" smooth="yes"/>
-      <point x="1146" y="296"/>
-      <point x="1124" y="175"/>
-      <point x="979" y="175" type="curve" smooth="yes"/>
-      <point x="799" y="175"/>
-      <point x="660" y="519"/>
-      <point x="622" y="664" type="curve" smooth="yes"/>
-      <point x="596" y="764"/>
-      <point x="581" y="867"/>
-      <point x="581" y="971" type="curve" smooth="yes"/>
-      <point x="581" y="1085"/>
-      <point x="605" y="1214"/>
-      <point x="747" y="1214" type="curve" smooth="yes"/>
-      <point x="938" y="1214"/>
-      <point x="1073" y="859"/>
-      <point x="1110" y="705" type="curve" smooth="yes"/>
-      <point x="1133" y="610"/>
-      <point x="1146" y="512"/>
-    </contour>
-    <contour>
-      <point x="1023" y="1467" type="curve" smooth="yes"/>
-      <point x="1168" y="1467"/>
-      <point x="1220" y="1612" name=".hr01"/>
-      <point x="1220" y="1735" type="curve" smooth="yes"/>
-      <point x="1220" y="1787"/>
-      <point x="1210" y="1844"/>
-      <point x="1145" y="1844" type="curve" smooth="yes"/>
-      <point x="1046" y="1844"/>
-      <point x="1087" y="1728"/>
-      <point x="990" y="1728" type="curve" smooth="yes"/>
-      <point x="906" y="1728" name=".hr02"/>
-      <point x="816" y="1828"/>
-      <point x="702" y="1828" type="curve" smooth="yes"/>
-      <point x="558" y="1828" name=".hr03"/>
-      <point x="505" y="1684"/>
-      <point x="505" y="1562" type="curve" smooth="yes"/>
-      <point x="505" y="1510"/>
-      <point x="515" y="1451"/>
-      <point x="580" y="1451" type="curve" smooth="yes"/>
-      <point x="676" y="1451"/>
-      <point x="644" y="1567"/>
-      <point x="735" y="1567" type="curve" smooth="yes"/>
-      <point x="818" y="1567"/>
-      <point x="910" y="1467"/>
-    </contour>
+    <component base="O"/>
+    <component base="tilde.cap" xOffset="383" yOffset="426"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>O+tilde.cap</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8dbcc38f8353391fe861ad54358d42d933e5a06c3bc2967aab4889f24e4677be4c67b410bacf2fab08f689f16009b56c09828aa7aa3296b69ddea414e8278a2a</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 70 511</string>
-          <string>hstem -40 21</string>
-          <string>vstem 1146 506</string>
-          <string>hstem 1214 514</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 1467 377</string>
-          <string>hstem -40 21</string>
-          <string>vstem 70 511</string>
-          <string>vstem 1146 506</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 1214 514</string>
-          <string>hstem -40 21</string>
-          <string>vstem 70 511</string>
-          <string>vstem 1146 506</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 1451 377</string>
-          <string>hstem -40 21</string>
-          <string>vstem 70 511</string>
-          <string>vstem 1146 506</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 1467 377</string>
-          <string>hstem -40 21</string>
-          <string>vstem 70 511</string>
-          <string>vstem 1146 506</string>
-        </array>
-        <key>pointTag</key>
-        <string>rsb</string>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

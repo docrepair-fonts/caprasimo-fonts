@@ -11,11 +11,11 @@
       <point x="1011" y="613"/>
       <point x="993" y="685"/>
       <point x="908" y="685" type="curve" smooth="yes"/>
-      <point x="782" y="685"/>
-      <point x="836" y="506"/>
+      <point x="783" y="685"/>
+      <point x="835" y="506"/>
       <point x="684" y="506" type="curve" smooth="yes"/>
-      <point x="656" y="506"/>
-      <point x="471" y="682"/>
+      <point x="657" y="506"/>
+      <point x="468" y="682"/>
       <point x="311" y="682" type="curve" smooth="yes"/>
       <point x="141" y="682"/>
       <point x="15" y="514"/>
@@ -26,8 +26,8 @@
       <point x="241" y="211"/>
       <point x="205" y="386"/>
       <point x="331" y="386" type="curve" smooth="yes"/>
-      <point x="448" y="386"/>
-      <point x="569" y="211"/>
+      <point x="449" y="386"/>
+      <point x="568" y="211"/>
     </contour>
     <contour>
       <point x="706" y="720" type="curve" smooth="yes"/>
@@ -37,11 +37,11 @@
       <point x="1011" y="1121"/>
       <point x="993" y="1193"/>
       <point x="908" y="1193" type="curve" smooth="yes"/>
-      <point x="782" y="1193"/>
-      <point x="836" y="1014"/>
+      <point x="783" y="1193"/>
+      <point x="835" y="1014"/>
       <point x="684" y="1014" type="curve" smooth="yes"/>
-      <point x="656" y="1014"/>
-      <point x="471" y="1190"/>
+      <point x="657" y="1014"/>
+      <point x="468" y="1190"/>
       <point x="311" y="1190" type="curve" smooth="yes"/>
       <point x="142" y="1190"/>
       <point x="15" y="1022"/>
@@ -49,23 +49,21 @@
       <point x="15" y="791"/>
       <point x="34" y="720"/>
       <point x="119" y="720" type="curve" smooth="yes"/>
-      <point x="244" y="720"/>
-      <point x="205" y="894"/>
+      <point x="243" y="720"/>
+      <point x="206" y="894"/>
       <point x="331" y="894" type="curve" smooth="yes"/>
-      <point x="447" y="894"/>
-      <point x="573" y="720"/>
+      <point x="448" y="894"/>
+      <point x="572" y="720"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e1c52b169454f607471c149495cc2b8c2483af975cc87c84258a484f75cba1fb2a410e04402b85c0ba37c1bd85c0d301880972590c483b63d6905b3b8d4ce154</string>
+    <string>69c7b4032a63d0ec4f62dd78cd19a0b386c38f8aa301814db516f584d9810cd5779aeee7116598d1087f80e4147ef98a2be7870d308fdaef352fd2546b6e9bdd</string>
     <key>hintSetList</key>
     <array>
       <dict>

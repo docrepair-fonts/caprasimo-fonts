@@ -31,11 +31,11 @@
       <point x="632" y="1151"/>
       <point x="632" y="982"/>
       <point x="632" y="937" type="curve" smooth="yes"/>
-      <point x="632" y="727"/>
+      <point x="632" y="728"/>
       <point x="602" y="608"/>
       <point x="419" y="488" type="curve" smooth="yes"/>
-      <point x="395" y="473"/>
-      <point x="361" y="451"/>
+      <point x="395" y="472"/>
+      <point x="362" y="451"/>
       <point x="334" y="444" type="curve" smooth="yes"/>
       <point x="187" y="405" type="line"/>
     </contour>
@@ -44,20 +44,20 @@
       <point x="70" y="74"/>
       <point x="133" y="-40"/>
       <point x="266" y="-40" type="curve" smooth="yes"/>
-      <point x="408" y="-40"/>
-      <point x="462" y="0"/>
+      <point x="410" y="-40"/>
+      <point x="459" y="0"/>
       <point x="496" y="138" type="curve" smooth="yes"/>
-      <point x="502" y="163"/>
-      <point x="510" y="198"/>
+      <point x="503" y="163"/>
+      <point x="509" y="198"/>
       <point x="543" y="198" type="curve" smooth="yes"/>
-      <point x="580" y="198"/>
+      <point x="579" y="198"/>
       <point x="576" y="166"/>
       <point x="584" y="141" type="curve" smooth="yes"/>
-      <point x="625" y="17"/>
-      <point x="723" y="-41"/>
+      <point x="621" y="18"/>
+      <point x="728" y="-41"/>
       <point x="851" y="-41" type="curve" smooth="yes"/>
-      <point x="1099" y="-41"/>
-      <point x="1171" y="182"/>
+      <point x="1101" y="-41"/>
+      <point x="1169" y="182"/>
       <point x="1184" y="390" type="curve" smooth="yes"/>
       <point x="1185" y="402"/>
       <point x="1186" y="415"/>
@@ -65,8 +65,8 @@
       <point x="1186" y="472"/>
       <point x="1179" y="544"/>
       <point x="1119" y="544" type="curve" smooth="yes"/>
-      <point x="1039" y="544"/>
-      <point x="1036" y="416"/>
+      <point x="1040" y="544"/>
+      <point x="1035" y="416"/>
       <point x="871" y="416" type="curve" smooth="yes"/>
       <point x="704" y="416"/>
       <point x="539" y="445"/>
@@ -77,14 +77,12 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f7d1564af56794239ad96b5140816ab1da20530d97d53648fe550f04957f2e11bce2da5ef6ba60d3dd57a949a2939a317c6bc633829ff7a3130e78ae2c353bba</string>
+    <string>817241d557d730fb11fa7cfe645a60ffd038a1e72815d63c20a0a0856ab443a0c902132bde134ee7f691f644ebc4b1ee82b2c74b9fa8b07049772eefe0dfa0bb</string>
     <key>hintSetList</key>
     <array>
       <dict>

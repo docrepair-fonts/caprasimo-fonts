@@ -16,19 +16,19 @@
       <point x="115" y="1384"/>
       <point x="67" y="1351"/>
       <point x="67" y="1275" type="curve" smooth="yes"/>
-      <point x="67" y="1136"/>
-      <point x="205" y="1173"/>
+      <point x="67" y="1137"/>
+      <point x="205" y="1172"/>
       <point x="205" y="1057" type="curve" smooth="yes"/>
       <point x="205" y="327" type="line" smooth="yes"/>
-      <point x="205" y="211"/>
-      <point x="67" y="248"/>
+      <point x="205" y="212"/>
+      <point x="67" y="247"/>
       <point x="67" y="109" type="curve" smooth="yes"/>
       <point x="67" y="33"/>
       <point x="115" y="0"/>
       <point x="187" y="0" type="curve" smooth="yes"/>
       <point x="821" y="0" type="line" smooth="yes"/>
       <point x="858" y="0"/>
-      <point x="895" y="-3"/>
+      <point x="894" y="-3"/>
       <point x="930" y="-12" type="curve" smooth="yes"/>
       <point x="970" y="-22"/>
       <point x="1010" y="-35"/>
@@ -44,27 +44,25 @@
       <point x="1234" y="523"/>
       <point x="1168" y="523" type="curve" smooth="yes"/>
       <point x="1005" y="523"/>
-      <point x="1078" y="223"/>
+      <point x="1077" y="223"/>
       <point x="824" y="223" type="curve" smooth="yes"/>
       <point x="773" y="223" type="line" smooth="yes"/>
       <point x="714" y="223"/>
       <point x="696" y="261"/>
       <point x="696" y="314" type="curve" smooth="yes"/>
       <point x="696" y="1057" type="line" smooth="yes"/>
-      <point x="696" y="1173"/>
-      <point x="833" y="1138"/>
+      <point x="696" y="1172"/>
+      <point x="833" y="1139"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c24024dbb682a488dcd98bede267b4b99a5b99eacc0f649fdf286034781d1e5f019f17ea74d8e5d9f439b8a832ef3b443b562b28fd84d1cb039222ca9d0328ce</string>
+    <string>3abcab995b5340411cc43ca0a788947daaa726da730e241b2b05e2ba4c13ce8b50c4cafaef819502d8fbfcef1f91c127c086caf7be3196080c9c316d3acfe119</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -18,15 +18,18 @@
       <point x="131" y="1056"/>
       <point x="103" y="1027"/>
       <point x="93" y="977" type="curve" smooth="yes"/>
-      <point x="38" y="705" type="line" smooth="yes"/>
-      <point x="28" y="654"/>
-      <point x="82" y="609"/>
+      <point x="38" y="705" type="line"/>
+      <point x="37" y="701"/>
+      <point x="37" y="697"/>
+      <point x="37" y="693" type="curve" smooth="yes"/>
+      <point x="37" y="646"/>
+      <point x="87" y="609"/>
       <point x="131" y="609" type="curve" smooth="yes"/>
       <point x="190" y="609"/>
       <point x="211" y="650"/>
       <point x="239" y="694" type="curve" smooth="yes"/>
-      <point x="349" y="868"/>
-      <point x="449" y="855"/>
+      <point x="350" y="868"/>
+      <point x="447" y="855"/>
       <point x="634" y="851" type="curve"/>
       <point x="578" y="961" type="line"/>
       <point x="79" y="254" type="line" smooth="yes"/>
@@ -43,15 +46,18 @@
       <point x="946" y="-31"/>
       <point x="974" y="-3"/>
       <point x="984" y="48" type="curve" smooth="yes"/>
-      <point x="1043" y="360" type="line" smooth="yes"/>
-      <point x="1052" y="410"/>
-      <point x="998" y="454"/>
+      <point x="1043" y="360" type="line"/>
+      <point x="1044" y="364"/>
+      <point x="1044" y="367"/>
+      <point x="1044" y="371" type="curve" smooth="yes"/>
+      <point x="1044" y="417"/>
+      <point x="993" y="454"/>
       <point x="950" y="454" type="curve" smooth="yes"/>
       <point x="890" y="454"/>
       <point x="873" y="415"/>
       <point x="846" y="370" type="curve" smooth="yes"/>
-      <point x="729" y="175"/>
-      <point x="638" y="174"/>
+      <point x="727" y="175"/>
+      <point x="639" y="174"/>
       <point x="426" y="174" type="curve"/>
       <point x="469" y="64" type="line"/>
       <point x="962" y="770" type="line" smooth="yes"/>
@@ -61,14 +67,12 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>eddc4a76ec043447c38ec511e8af9bcb7a6ddcb6f6e35d4145117f1ae7639a748bb5e2ceae2193aa0c57c92c157512e2a15891db93b8a5d95abbdbcc285b82ce</string>
+    <string>e4ce38fc9fcd7d4c78c61be7004b4e7aae4ce74c884615c21e20a7fba844b32bd61611368c8dc5e08b7832a64d4d7a8674577e116f04cba693c153b1f1358b40</string>
     <key>hintSetList</key>
     <array>
       <dict>

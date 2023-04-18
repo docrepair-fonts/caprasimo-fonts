@@ -22,12 +22,12 @@
       <point x="108" y="1384"/>
       <point x="61" y="1351"/>
       <point x="61" y="1275" type="curve" smooth="yes"/>
-      <point x="61" y="1138"/>
-      <point x="197" y="1174"/>
+      <point x="61" y="1139"/>
+      <point x="197" y="1173"/>
       <point x="197" y="1057" type="curve" smooth="yes"/>
       <point x="197" y="327" type="line" smooth="yes"/>
-      <point x="197" y="214"/>
-      <point x="61" y="244"/>
+      <point x="197" y="215"/>
+      <point x="61" y="243"/>
       <point x="61" y="109" type="curve" smooth="yes"/>
       <point x="61" y="33"/>
       <point x="108" y="0"/>
@@ -61,14 +61,12 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f25c98e8de3a32aaccb48a26859319c2d3bd9bd21e18824a9e79d16e67568c3b2a369da5dd864dcdae51032985ad7c3f215a784f0fcaa6d1dc6e2f0cda2b8540</string>
+    <string>249d7c27d2389f8ead9d02b7316f05c81f3611ab445e587c086e84009769a59f7dd0e5cf742570562f076fc5f01028f07e5811f3c7d1e595da7d9ca82113258b</string>
     <key>hintSetList</key>
     <array>
       <dict>

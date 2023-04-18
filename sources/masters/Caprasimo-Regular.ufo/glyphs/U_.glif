@@ -15,15 +15,15 @@
       <point x="803" y="210"/>
       <point x="698" y="285" name=".hr01"/>
       <point x="698" y="471" type="curve" smooth="yes"/>
-      <point x="698" y="561"/>
+      <point x="698" y="560"/>
       <point x="705" y="649"/>
       <point x="711" y="738" type="curve" smooth="yes"/>
       <point x="733" y="1057" type="line" smooth="yes"/>
-      <point x="736" y="1103"/>
-      <point x="743" y="1122"/>
+      <point x="736" y="1105"/>
+      <point x="743" y="1121"/>
       <point x="787" y="1142" type="curve" smooth="yes"/>
-      <point x="858" y="1174"/>
-      <point x="922" y="1176"/>
+      <point x="857" y="1176"/>
+      <point x="922" y="1174"/>
       <point x="922" y="1273" type="curve" smooth="yes"/>
       <point x="922" y="1343"/>
       <point x="876" y="1384"/>
@@ -32,9 +32,10 @@
       <point x="86" y="1384"/>
       <point x="41" y="1343"/>
       <point x="41" y="1273" type="curve" smooth="yes"/>
-      <point x="41" y="1108"/>
-      <point x="249" y="1183"/>
-      <point x="241" y="1069" type="curve" smooth="yes"/>
+      <point x="41" y="1112"/>
+      <point x="241" y="1180"/>
+      <point x="241" y="1075" type="curve" smooth="yes"/>
+      <point x="241" y="1069" type="line"/>
       <point x="212" y="640" type="line" smooth="yes"/>
       <point x="207" y="568"/>
       <point x="197" y="497"/>
@@ -52,8 +53,8 @@
       <point x="1451" y="1045"/>
       <point x="1451" y="1047"/>
       <point x="1451" y="1049" type="curve" smooth="yes"/>
-      <point x="1451" y="1184"/>
-      <point x="1652" y="1116"/>
+      <point x="1451" y="1183"/>
+      <point x="1652" y="1117"/>
       <point x="1652" y="1273" type="curve" smooth="yes"/>
       <point x="1652" y="1343"/>
       <point x="1607" y="1384"/>
@@ -62,8 +63,8 @@
       <point x="1085" y="1384"/>
       <point x="1040" y="1343"/>
       <point x="1040" y="1273" type="curve" smooth="yes"/>
-      <point x="1040" y="1195"/>
-      <point x="1074" y="1178"/>
+      <point x="1040" y="1194"/>
+      <point x="1074" y="1179"/>
       <point x="1141" y="1154" type="curve" smooth="yes"/>
       <point x="1203" y="1131"/>
       <point x="1223" y="1128"/>
@@ -75,14 +76,12 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>98adc2d97ddeb83b8d0109ba858a73883381d60799cde7a2f842442741f34e5388ce377ce45532ef86f804ae72d8185eb1778c2055e64a3ac9c7a280d5340f5b</string>
+    <string>8685ef9b981ac1fe4a0af85b16e1e52c972ab8d0dc46fde03145bd5dd0abab1dd800b23a1a52b9844af7fbd6c56dd1e9a32ff2798e9d6479238e15db38ecc3a7</string>
     <key>hintSetList</key>
     <array>
       <dict>

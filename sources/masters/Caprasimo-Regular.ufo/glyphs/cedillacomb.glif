@@ -6,8 +6,8 @@
   <outline>
     <contour>
       <point x="277" y="19" type="line"/>
-      <point x="259" y="-19"/>
-      <point x="190" y="-158"/>
+      <point x="259" y="-20"/>
+      <point x="190" y="-157"/>
       <point x="190" y="-191" type="curve" smooth="yes"/>
       <point x="190" y="-234"/>
       <point x="246" y="-229"/>
@@ -18,8 +18,8 @@
       <point x="344" y="-306"/>
       <point x="316" y="-318"/>
       <point x="285" y="-318" type="curve" smooth="yes"/>
-      <point x="223" y="-318"/>
-      <point x="174" y="-271"/>
+      <point x="224" y="-318"/>
+      <point x="175" y="-271"/>
       <point x="123" y="-271" type="curve" smooth="yes"/>
       <point x="81" y="-271"/>
       <point x="58" y="-305"/>
@@ -47,7 +47,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f2101d6558b7d8a6d12e4242a1aee81c540a19ee00f2c0dd8ad40dd8fa7b9f12b22fbb17718496a5260bd77fc1361f32051b7b3d0f32681e53f8ac4e8e057f7e</string>
+    <string>00b5072c66e20efa17598a5af1e9e37e4804041971b49fd142b5f9a4dc4af2ecf49c016c438e2dec3cbf38d00577441256ac76bd6d2e714d66043362a67337ef</string>
     <key>hintSetList</key>
     <array>
       <dict>

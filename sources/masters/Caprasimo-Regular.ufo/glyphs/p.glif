@@ -14,12 +14,12 @@
       <point x="95" y="911"/>
       <point x="53" y="883"/>
       <point x="53" y="832" type="curve" smooth="yes"/>
-      <point x="53" y="741"/>
-      <point x="153" y="774"/>
+      <point x="53" y="742"/>
+      <point x="153" y="773"/>
       <point x="153" y="650" type="curve" smooth="yes"/>
       <point x="153" y="-113" type="line" smooth="yes"/>
-      <point x="153" y="-235"/>
-      <point x="65" y="-208"/>
+      <point x="153" y="-234"/>
+      <point x="65" y="-209"/>
       <point x="65" y="-304" type="curve" smooth="yes"/>
       <point x="65" y="-364"/>
       <point x="107" y="-395"/>
@@ -29,10 +29,10 @@
       <point x="688" y="-362"/>
       <point x="688" y="-304" type="curve" smooth="yes"/>
       <point x="688" y="-265"/>
-      <point x="677" y="-251"/>
+      <point x="676" y="-250"/>
       <point x="651" y="-223" type="curve" smooth="yes"/>
-      <point x="603" y="-172"/>
-      <point x="603" y="-163"/>
+      <point x="603" y="-171"/>
+      <point x="603" y="-164"/>
       <point x="603" y="-94" type="curve" smooth="yes"/>
       <point x="603" y="825" type="line"/>
       <point x="581" y="865" type="line"/>
@@ -58,7 +58,7 @@
       <point x="544" y="332" type="curve"/>
       <point x="423" y="192" type="line"/>
       <point x="505" y="53"/>
-      <point x="626" y="-29"/>
+      <point x="627" y="-29"/>
       <point x="791" y="-29" type="curve" smooth="yes"/>
       <point x="1119" y="-29"/>
       <point x="1308" y="239"/>
@@ -73,14 +73,12 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>de4197f1ada67fb262e53ce112d65cff516c24c885bf617337a51ca25e35f0bfd56d28354362009d0249f4d25f68055ae1ec26485877e298f6f1a38f90804b0d</string>
+    <string>3e1a4144984d5d51e41df9bfb560560fef4ffc799a9f9971c7cf46d6dd1244e4681fabcb82ff36ec0b2d260fde758bc29a652b10d8efd323c2cc578481818e92</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -31,20 +31,18 @@
       <point x="140" y="1570"/>
       <point x="183" y="1570" type="curve" smooth="yes"/>
       <point x="213" y="1570"/>
-      <point x="240" y="1556"/>
+      <point x="239" y="1556"/>
       <point x="263" y="1539" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>268fedea2ac6daebce4e370613e17378303a8576f21a18e9b4e890ad33d692d405b99d33c0002a958ce9b5c00765e6912bc319b6a7e0ac707aa020117d222c56</string>
+    <string>0140646d9c8ef0b862cde8f6ab3090d0a2326f97d24c850de25bed7c6089a44b17fca3fee71aa8e4c34dad0ace7d2cc0e1195bc62852d5cdf348020194a7bd10</string>
     <key>hintSetList</key>
     <array>
       <dict>

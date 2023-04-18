@@ -7,7 +7,7 @@
       <point x="816" y="385" type="line"/>
       <point x="1054" y="1016" type="line" smooth="yes"/>
       <point x="1074" y="1068"/>
-      <point x="1102" y="1118"/>
+      <point x="1102" y="1117"/>
       <point x="1139" y="1159" type="curve" smooth="yes"/>
       <point x="1175" y="1199"/>
       <point x="1194" y="1218"/>
@@ -35,12 +35,9 @@
       <point x="797" y="944" type="curve" smooth="yes"/>
       <point x="623" y="450" type="line"/>
       <point x="804" y="556" type="line"/>
-      <point x="667" y="1011" type="line" smooth="yes"/>
-      <point x="664" y="1021"/>
-      <point x="659" y="1031"/>
-      <point x="654" y="1041" type="curve"/>
-      <point x="654" y="1042"/>
-      <point x="654" y="1043"/>
+      <point x="667" y="1011" type="line"/>
+      <point x="664" y="1022"/>
+      <point x="658" y="1033"/>
       <point x="653" y="1043" type="curve"/>
       <point x="653" y="1045" type="line"/>
       <point x="644" y="1063"/>
@@ -60,7 +57,7 @@
       <point x="81" y="1384"/>
       <point x="35" y="1350"/>
       <point x="35" y="1275" type="curve" smooth="yes"/>
-      <point x="35" y="1208"/>
+      <point x="35" y="1207"/>
       <point x="56" y="1191"/>
       <point x="103" y="1149" type="curve" smooth="yes"/>
       <point x="144" y="1112"/>
@@ -71,8 +68,8 @@
     <contour>
       <point x="392" y="522" type="line"/>
       <point x="392" y="323" type="line" smooth="yes"/>
-      <point x="392" y="215"/>
-      <point x="283" y="231"/>
+      <point x="392" y="216"/>
+      <point x="283" y="230"/>
       <point x="283" y="110" type="curve" smooth="yes"/>
       <point x="283" y="35"/>
       <point x="328" y="0"/>
@@ -81,8 +78,8 @@
       <point x="922" y="0"/>
       <point x="967" y="35"/>
       <point x="967" y="110" type="curve" smooth="yes"/>
-      <point x="967" y="236"/>
-      <point x="859" y="203"/>
+      <point x="967" y="235"/>
+      <point x="859" y="204"/>
       <point x="859" y="328" type="curve" smooth="yes"/>
       <point x="859" y="522" type="line"/>
     </contour>
@@ -127,14 +124,12 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d4be4c9e44d611ea921d0c0e5d20263434e2f6aff630b9fb233c7dde3ee7d0d2115dfd80f73e542f50f19c6e7b3a10b66aaacf95485b43596966156a9ee5fa30</string>
+    <string>78187f1287ab6852e5dc3bd0a85b2d213658791fc3851e7c9bde388e0c24295bcea551fe921bd8ff829c4d42fd8a995a5798cfeaf4ff09fb6f6d98241d2ce105</string>
     <key>hintSetList</key>
     <array>
       <dict>

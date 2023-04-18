@@ -2,118 +2,19 @@
 <glyph name="Yacute" format="2">
   <advance width="1597"/>
   <unicode hex="00DD"/>
-  <anchor x="785" y="0" name="bottom"/>
-  <anchor x="25" y="1384" name="topleft"/>
-  <anchor x="785" y="1942" name="top"/>
+  <anchor x="799" y="0" name="bottom"/>
+  <anchor x="24" y="1384" name="topleft"/>
+  <anchor x="799" y="1942" name="top"/>
   <outline>
-    <contour>
-      <point x="992" y="391" type="line"/>
-      <point x="1369" y="1043" type="line" smooth="yes"/>
-      <point x="1396" y="1090"/>
-      <point x="1421" y="1125"/>
-      <point x="1464" y="1160" type="curve" smooth="yes"/>
-      <point x="1508" y="1195"/>
-      <point x="1535" y="1214"/>
-      <point x="1535" y="1275" type="curve" smooth="yes"/>
-      <point x="1535" y="1352"/>
-      <point x="1485" y="1384"/>
-      <point x="1413" y="1384" type="curve" smooth="yes"/>
-      <point x="1142" y="1384" type="line" smooth="yes"/>
-      <point x="1070" y="1384"/>
-      <point x="1020" y="1352"/>
-      <point x="1020" y="1275" type="curve" smooth="yes"/>
-      <point x="1020" y="1151"/>
-      <point x="1144" y="1166"/>
-      <point x="1144" y="1103" type="curve" smooth="yes"/>
-      <point x="1144" y="1085"/>
-      <point x="1135" y="1069"/>
-      <point x="1127" y="1054" type="curve" smooth="yes"/>
-      <point x="794" y="455" type="line"/>
-      <point x="988" y="561" type="line"/>
-      <point x="735" y="1012" type="line" smooth="yes"/>
-      <point x="723" y="1034"/>
-      <point x="704" y="1070"/>
-      <point x="704" y="1095" type="curve" smooth="yes"/>
-      <point x="704" y="1165"/>
-      <point x="841" y="1144"/>
-      <point x="841" y="1275" type="curve" smooth="yes"/>
-      <point x="841" y="1352"/>
-      <point x="791" y="1384"/>
-      <point x="719" y="1384" type="curve" smooth="yes"/>
-      <point x="157" y="1384" type="line" smooth="yes"/>
-      <point x="86" y="1384"/>
-      <point x="35" y="1351"/>
-      <point x="35" y="1275" type="curve" smooth="yes"/>
-      <point x="35" y="1200"/>
-      <point x="68" y="1187"/>
-      <point x="124" y="1150" type="curve" smooth="yes"/>
-      <point x="162" y="1125"/>
-      <point x="171" y="1105"/>
-      <point x="193" y="1068" type="curve" smooth="yes"/>
-      <point x="625" y="332" type="line"/>
-    </contour>
-    <contour>
-      <point x="548" y="527" type="line"/>
-      <point x="548" y="327" type="line" smooth="yes"/>
-      <point x="548" y="215"/>
-      <point x="388" y="250"/>
-      <point x="388" y="109" type="curve" smooth="yes"/>
-      <point x="388" y="33"/>
-      <point x="439" y="0"/>
-      <point x="510" y="0" type="curve" smooth="yes"/>
-      <point x="1077" y="0" type="line" smooth="yes"/>
-      <point x="1149" y="0"/>
-      <point x="1199" y="32"/>
-      <point x="1199" y="109" type="curve" smooth="yes"/>
-      <point x="1199" y="251"/>
-      <point x="1040" y="216"/>
-      <point x="1040" y="327" type="curve" smooth="yes"/>
-      <point x="1040" y="527" type="line"/>
-    </contour>
-    <contour>
-      <point x="541" y="1529" type="curve" smooth="yes"/>
-      <point x="541" y="1485"/>
-      <point x="580" y="1464"/>
-      <point x="619" y="1464" type="curve" smooth="yes"/>
-      <point x="664" y="1464"/>
-      <point x="752" y="1497"/>
-      <point x="797" y="1513" type="curve" smooth="yes"/>
-      <point x="908" y="1553"/>
-      <point x="1039" y="1604"/>
-      <point x="1039" y="1744" type="curve" smooth="yes"/>
-      <point x="1039" y="1844"/>
-      <point x="957" y="1916"/>
-      <point x="859" y="1916" type="curve" smooth="yes"/>
-      <point x="752" y="1916"/>
-      <point x="701" y="1822"/>
-      <point x="651" y="1743" type="curve" smooth="yes"/>
-      <point x="620" y="1694"/>
-      <point x="541" y="1583"/>
-    </contour>
+    <component base="Y"/>
+    <component base="acute.cap" xOffset="497" yOffset="426"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>Y+acute.cap</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>1e00390f0e3568f85a3a065c45c6108b94fe6dd26935eba9c51d78ef365860475823f2b11c77ad9e0d690798626bf2ed269225e0d3d86933ce3409093f981c34</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 21</string>
-          <string>vstem 1020 515</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

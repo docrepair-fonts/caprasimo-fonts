@@ -26,18 +26,18 @@
     <contour>
       <point x="488" y="1056" type="curve" smooth="yes"/>
       <point x="452" y="1056"/>
-      <point x="420" y="1041"/>
+      <point x="419" y="1041"/>
       <point x="387" y="1028" type="curve" smooth="yes"/>
       <point x="137" y="929" type="line" smooth="yes"/>
       <point x="93" y="912"/>
       <point x="53" y="884"/>
       <point x="53" y="832" type="curve" smooth="yes"/>
-      <point x="53" y="742"/>
-      <point x="154" y="772"/>
+      <point x="53" y="743"/>
+      <point x="154" y="771"/>
       <point x="154" y="650" type="curve" smooth="yes"/>
       <point x="154" y="287" type="line" smooth="yes"/>
-      <point x="154" y="158"/>
-      <point x="65" y="189"/>
+      <point x="154" y="159"/>
+      <point x="65" y="188"/>
       <point x="65" y="91" type="curve" smooth="yes"/>
       <point x="65" y="31"/>
       <point x="107" y="0"/>
@@ -46,15 +46,15 @@
       <point x="750" y="0"/>
       <point x="790" y="31"/>
       <point x="790" y="91" type="curve" smooth="yes"/>
-      <point x="790" y="174"/>
-      <point x="746" y="178"/>
+      <point x="790" y="175"/>
+      <point x="746" y="177"/>
       <point x="678" y="191" type="curve" smooth="yes"/>
-      <point x="600" y="206"/>
+      <point x="600" y="207"/>
       <point x="593" y="224"/>
       <point x="593" y="301" type="curve" smooth="yes"/>
       <point x="593" y="740" type="line" smooth="yes"/>
-      <point x="593" y="796"/>
-      <point x="581" y="853"/>
+      <point x="593" y="797"/>
+      <point x="581" y="852"/>
       <point x="573" y="908" type="curve" smooth="yes"/>
       <point x="566" y="959"/>
       <point x="558" y="1056"/>
@@ -62,14 +62,12 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c157b20dd577e7ad58515edcd9edfec248ccc1e4403f0961e15a6831b1a1231aebee17a7cdbf739f1f4f5ea2bae7325aaa2e420924c4c9f5867ef0a99f738168</string>
+    <string>ca0fba5f94677295fb13acb7ef990936ef647ca25e73ee7427ab51fb9a9f657404bca53919113b916b79eb48030cd99a44585bc7860b3d6c95003ab3ea7a6f4b</string>
     <key>hintSetList</key>
     <array>
       <dict>

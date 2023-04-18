@@ -8,7 +8,7 @@
     <contour>
       <point x="633" y="109" type="curve" smooth="yes"/>
       <point x="633" y="189"/>
-      <point x="589" y="206"/>
+      <point x="589" y="205"/>
       <point x="529" y="242" type="curve" smooth="yes"/>
       <point x="484" y="269"/>
       <point x="474" y="283"/>
@@ -26,18 +26,18 @@
       <point x="1561" y="0"/>
       <point x="1604" y="44"/>
       <point x="1604" y="109" type="curve" smooth="yes"/>
-      <point x="1604" y="171"/>
-      <point x="1555" y="232"/>
+      <point x="1604" y="173"/>
+      <point x="1555" y="231"/>
       <point x="1523" y="283" type="curve" smooth="yes"/>
-      <point x="1490" y="336"/>
-      <point x="1483" y="407"/>
+      <point x="1490" y="338"/>
+      <point x="1483" y="405"/>
       <point x="1483" y="468" type="curve" smooth="yes"/>
       <point x="1483" y="1049" type="line" smooth="yes"/>
       <point x="1483" y="1101"/>
       <point x="1494" y="1116"/>
       <point x="1538" y="1142" type="curve" smooth="yes"/>
-      <point x="1599" y="1178"/>
-      <point x="1643" y="1194"/>
+      <point x="1599" y="1179"/>
+      <point x="1643" y="1193"/>
       <point x="1643" y="1275" type="curve" smooth="yes"/>
       <point x="1643" y="1351"/>
       <point x="1592" y="1384"/>
@@ -46,14 +46,14 @@
       <point x="1149" y="1384"/>
       <point x="1099" y="1352"/>
       <point x="1099" y="1275" type="curve" smooth="yes"/>
-      <point x="1099" y="1130"/>
-      <point x="1258" y="1181"/>
+      <point x="1099" y="1131"/>
+      <point x="1258" y="1180"/>
       <point x="1258" y="1049" type="curve" smooth="yes"/>
       <point x="1258" y="304" type="line"/>
       <point x="1309" y="540" type="line"/>
       <point x="639" y="1308" type="line" smooth="yes"/>
-      <point x="583" y="1373"/>
-      <point x="560" y="1384"/>
+      <point x="582" y="1373"/>
+      <point x="561" y="1384"/>
       <point x="474" y="1384" type="curve" smooth="yes"/>
       <point x="162" y="1384" type="line" smooth="yes"/>
       <point x="103" y="1384"/>
@@ -66,8 +66,8 @@
       <point x="249" y="1028"/>
       <point x="249" y="936" type="curve" smooth="yes"/>
       <point x="249" y="336" type="line" smooth="yes"/>
-      <point x="249" y="206"/>
-      <point x="89" y="252"/>
+      <point x="249" y="207"/>
+      <point x="89" y="251"/>
       <point x="89" y="109" type="curve" smooth="yes"/>
       <point x="89" y="32"/>
       <point x="139" y="0"/>
@@ -79,14 +79,12 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>260957ad46cca6b93443cafc4d6d1acb5d13a22b29a0a3952cd77bb2b83344de925d575f7bdb7d1058e85bf8cf4a20364411de728b5cb6cfd25cebb061236fc7</string>
+    <string>d74ad4eeae0a2aaca4c6e656c0f3e3d1971ab3b53f1752bbb2aed2160e9095a492d6926739244a81ba23a0ea1b6799acf172dc9d74596c5653a4ab1d1aedec88</string>
     <key>hintSetList</key>
     <array>
       <dict>

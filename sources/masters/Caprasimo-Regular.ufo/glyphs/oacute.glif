@@ -2,84 +2,21 @@
 <glyph name="oacute" format="2">
   <advance width="1233"/>
   <unicode hex="00F3"/>
-  <anchor x="667" y="0" name="bottom"/>
-  <anchor x="667" y="512" name="center"/>
-  <anchor x="1196" y="11" name="ogonek"/>
-  <anchor x="1308" y="1024" name="topright"/>
-  <anchor x="667" y="1582" name="top"/>
+  <anchor x="618" y="0" name="bottom"/>
+  <anchor x="618" y="512" name="center"/>
+  <anchor x="1100" y="11" name="ogonek"/>
+  <anchor x="1202" y="1024" name="topright"/>
+  <anchor x="618" y="1582" name="top"/>
   <outline>
-    <contour>
-      <point x="675" y="1056" type="curve" smooth="yes"/>
-      <point x="361" y="1056"/>
-      <point x="58" y="864"/>
-      <point x="58" y="523" type="curve" smooth="yes"/>
-      <point x="58" y="170"/>
-      <point x="321" y="-29"/>
-      <point x="658" y="-29" type="curve" smooth="yes"/>
-      <point x="977" y="-29"/>
-      <point x="1275" y="164"/>
-      <point x="1275" y="508" type="curve" smooth="yes"/>
-      <point x="1275" y="859"/>
-      <point x="1008" y="1056"/>
-    </contour>
-    <contour>
-      <point x="735" y="192" type="curve" smooth="yes"/>
-      <point x="589" y="192"/>
-      <point x="512" y="561"/>
-      <point x="512" y="674" type="curve" smooth="yes"/>
-      <point x="512" y="732"/>
-      <point x="525" y="838"/>
-      <point x="603" y="838" type="curve" smooth="yes"/>
-      <point x="746" y="838"/>
-      <point x="826" y="469"/>
-      <point x="826" y="358" type="curve" smooth="yes"/>
-      <point x="826" y="301"/>
-      <point x="812" y="192"/>
-    </contour>
-    <contour>
-      <point x="424" y="1171" type="curve" smooth="yes"/>
-      <point x="424" y="1128"/>
-      <point x="459" y="1104"/>
-      <point x="499" y="1104" type="curve" smooth="yes"/>
-      <point x="520" y="1104"/>
-      <point x="537" y="1110"/>
-      <point x="556" y="1118" type="curve" smooth="yes"/>
-      <point x="722" y="1184" type="line" smooth="yes"/>
-      <point x="817" y="1222"/>
-      <point x="911" y="1296"/>
-      <point x="911" y="1408" type="curve" smooth="yes"/>
-      <point x="911" y="1510"/>
-      <point x="826" y="1582"/>
-      <point x="727" y="1582" type="curve" smooth="yes"/>
-      <point x="608" y="1582"/>
-      <point x="563" y="1479"/>
-      <point x="516" y="1389" type="curve" smooth="yes"/>
-      <point x="490" y="1340"/>
-      <point x="424" y="1222"/>
-    </contour>
+    <component base="o"/>
+    <component base="acutecomb" xOffset="317" yOffset="66"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>o+acutecomb</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d45726fa4f5654d54f6346f331415410c6edf21235222f575e457455d970b32c17cafe1097a3d62511808deb1cac8e0b191f94d4ca26ad40f83a2f702ac5f03b</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -29 21</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

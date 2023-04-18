@@ -48,10 +48,4 @@
       <point x="1033" y="302"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
-  </dict>
-  </lib>
 </glyph>

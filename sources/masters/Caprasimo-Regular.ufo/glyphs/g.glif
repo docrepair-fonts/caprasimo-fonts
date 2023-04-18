@@ -7,36 +7,45 @@
   <outline>
     <contour>
       <point x="1208" y="-80" type="curve" smooth="yes"/>
-      <point x="1208" y="-345"/>
-      <point x="754" y="-395"/>
+      <point x="1208" y="-357"/>
+      <point x="714" y="-395"/>
       <point x="516" y="-395" type="curve" smooth="yes"/>
-      <point x="382" y="-395"/>
+      <point x="381" y="-395"/>
       <point x="28" y="-388"/>
-      <point x="28" y="-192.625" type="curve" smooth="yes"/>
-      <point x="28" y="-6"/>
-      <point x="351" y="9"/>
+      <point x="28" y="-193" type="curve" smooth="yes"/>
+      <point x="28" y="6"/>
+      <point x="397" y="9"/>
       <point x="533" y="9" type="curve"/>
-      <point x="296" y="-87"/>
-      <point x="360" y="-203"/>
+      <point x="490" y="-8"/>
+      <point x="387" y="-55"/>
+      <point x="387" y="-113" type="curve" smooth="yes"/>
+      <point x="387" y="-195"/>
+      <point x="583" y="-203"/>
       <point x="634" y="-203" type="curve" smooth="yes"/>
-      <point x="732" y="-203"/>
-      <point x="821" y="-170"/>
+      <point x="677" y="-203"/>
+      <point x="821" y="-188"/>
       <point x="821" y="-124" type="curve" smooth="yes"/>
-      <point x="821" y="81"/>
-      <point x="135" y="-179"/>
-      <point x="135" y="92.0646" type="curve" smooth="yes"/>
-      <point x="135" y="264"/>
-      <point x="411" y="277"/>
+      <point x="821" y="-35"/>
+      <point x="682" y="-37"/>
+      <point x="621" y="-37" type="curve" smooth="yes"/>
+      <point x="547" y="-37"/>
+      <point x="473" y="-42"/>
+      <point x="399" y="-42" type="curve" smooth="yes"/>
+      <point x="305" y="-42"/>
+      <point x="135" y="-40"/>
+      <point x="135" y="92" type="curve" smooth="yes"/>
+      <point x="135" y="268"/>
+      <point x="426" y="277"/>
       <point x="550" y="277" type="curve"/>
       <point x="556" y="256" type="line"/>
-      <point x="544" y="248"/>
-      <point x="533" y="237"/>
+      <point x="545" y="249"/>
+      <point x="533" y="238"/>
       <point x="533" y="224" type="curve" smooth="yes"/>
-      <point x="533" y="189"/>
-      <point x="596" y="185"/>
-      <point x="683" y="185" type="curve" smooth="yes"/>
-      <point x="882" y="185"/>
-      <point x="1208" y="205"/>
+      <point x="533" y="171"/>
+      <point x="723" y="185"/>
+      <point x="761" y="185" type="curve" smooth="yes"/>
+      <point x="952" y="185"/>
+      <point x="1208" y="172"/>
     </contour>
     <contour>
       <point x="570" y="1028" type="line"/>
@@ -49,8 +58,8 @@
       <point x="1120" y="1135"/>
       <point x="1079" y="1047"/>
       <point x="976" y="1047" type="curve" smooth="yes"/>
-      <point x="867" y="1047"/>
-      <point x="852" y="1158"/>
+      <point x="868" y="1047"/>
+      <point x="851" y="1158"/>
       <point x="793" y="1158" type="curve" smooth="yes"/>
       <point x="740" y="1158"/>
       <point x="707" y="1053"/>
@@ -87,14 +96,12 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>15b1365557a97963f648f8c64c0fc75e561f44aecd5e74d6fd6bf35dcd3ad73953dd419fbed430f95730f429993e4effc8aff7f903f33b833e871ca8f0e1e9dd</string>
+    <string>9f1415c754504e7e6b5adc8d77e82bf395cea17cde366eb1809d9f62df64b34a142f1c93c25047a9af265d9131d93b635a571205fa899e6fdd87cfe04ff4c3a0</string>
     <key>hintSetList</key>
     <array>
       <dict>

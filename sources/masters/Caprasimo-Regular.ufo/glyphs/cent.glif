@@ -58,8 +58,8 @@
       <point x="1134" y="348"/>
       <point x="1123" y="389"/>
       <point x="1082" y="389" type="curve" smooth="yes"/>
-      <point x="1050" y="389"/>
-      <point x="1027" y="366"/>
+      <point x="1051" y="389"/>
+      <point x="1026" y="366"/>
       <point x="1002" y="350" type="curve" smooth="yes"/>
       <point x="926" y="299"/>
       <point x="843" y="269"/>
@@ -82,14 +82,12 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cb613c93cdcdb83f7ee015105a97c4f1427cbdcdae514e1cac74ba424092956abbf9c0ba33deb2a0ab41b644125960c67a4844b96c940ebd739c116979ae6fbb</string>
+    <string>e7bed1e2c173689b5de379a58ba14535db9c5b2e67a8c61305034d773d7ed045b65031b9a59805fa1acf0ac8b723e487191a86ddcb9a19c9e09ad8b0430794ce</string>
     <key>hintSetList</key>
     <array>
       <dict>
