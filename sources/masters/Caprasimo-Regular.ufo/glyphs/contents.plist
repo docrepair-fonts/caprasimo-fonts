@@ -334,8 +334,8 @@
     <string>m.glif</string>
     <key>macron</key>
     <string>macron.glif</string>
-    <key>macron#1</key>
-    <string>macron#1.glif</string>
+    <key>legacymacron</key>
+    <string>legacymacron.glif</string>
     <key>mu</key>
     <string>mu.glif</string>
     <key>multiply</key>
