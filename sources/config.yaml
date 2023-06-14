@@ -1,0 +1,7 @@
+buildOTF: false
+buildVariable: false
+buildWebfont: false
+familyName: Caprasimo
+outputDir: ../fonts
+sources:
+  - Caprasimo-Regular.designspace
